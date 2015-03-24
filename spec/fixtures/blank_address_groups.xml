@@ -1,6 +1,0 @@
-<response status="success" code="19">
-  <result total-count="1" count="1">
-    <entry name="test" src="tpl" admin="admin" time="2015/02/02 13:45:00">
-    </entry>
-  </result>
-</response>
